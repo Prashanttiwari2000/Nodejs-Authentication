@@ -38,9 +38,7 @@ You may also see any lint errors in the console.
 -passport-local-mongoose<br/>
 -nodemon<br/>
 
-## 🔗 Links
 
-> ## Checkout the Youtube Video  https://youtu.be/kFTOO2aabW0
 
 
 <br/>
